@@ -7,3 +7,4 @@ podkowa
 wypiekacz
 vet
 contract 
+edycja 
