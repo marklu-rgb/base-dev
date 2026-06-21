@@ -10,3 +10,4 @@ contract
 edycja 
 mhm 
 farcaster
+konto 
