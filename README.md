@@ -11,3 +11,4 @@ edycja
 mhm 
 farcaster
 konto 
+pk_script 
