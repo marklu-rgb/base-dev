@@ -13,3 +13,4 @@ farcaster
 konto 
 pk_script 
 Mbps 
+,ng
